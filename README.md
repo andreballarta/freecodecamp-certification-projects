@@ -1,44 +1,8 @@
 # My FreeCodeCamp Certification Projects
 
-## Español
-
-Repositorio que contiene mis proyectos desarrollados como parte de las certificaciones de FreeCodeCamp.
-
-## Python Certification
-
-| Proyecto | Estado |
-|-----------|---------|
-| User Configuration Manager | ✅ Completado |
-| Budget App | ✅ Completado |
-| Polygon Area Calculator | ✅ Completado |
-| Hash Table | ✅ Completado |
-| Tower of Hanoi Algorithm | ⏳ Pendiente |
-
-## Progreso
-
-- Python Basics ✅
-- Loops and Sequences ✅
-- Dictionaries and Sets ✅
-- Proyecto de Certificación: User Configuration Manager ✅
-- Error Handling ✅
-- Classes and Objects ✅
-- Proyecto de Certificación: Budget App ✅
-- Object-Oriented Programming (OOP) ✅
-- Proyecto de Certificación: Polygon Area Calculator ✅
-- Linear Data Structures ✅
-- Proyecto de Certificación: Hash Table ✅
-
-## Objetivo
-
-Documentar mi progreso mientras desarrollo los proyectos requeridos para obtener la certificación de Python de FreeCodeCamp.
-
----
-
-## English
-
 This repository contains my projects developed as part of FreeCodeCamp certifications.
 
-### Python Certification
+## Python Certification
 
 | Project | Status |
 |----------|---------|
@@ -46,9 +10,9 @@ This repository contains my projects developed as part of FreeCodeCamp certifica
 | Budget App | ✅ Completed |
 | Polygon Area Calculator | ✅ Completed |
 | Hash Table | ✅ Completed |
-| Tower of Hanoi Algorithm | ⏳ Pending |
+| Tower of Hanoi Algorithm | ✅ Completed |
 
-### Progress
+## Progress
 
 - Python Basics ✅
 - Loops and Sequences ✅
@@ -62,16 +26,16 @@ This repository contains my projects developed as part of FreeCodeCamp certifica
 - Linear Data Structures ✅
 - Certification Project: Hash Table ✅
 
-### Goal
+## Goal
 
 Document my progress while completing the projects required for the FreeCodeCamp Python Certification.
 
 ---
 
-### Autor / Author
+## Autor / Author
 
 André Ballarta Elguera
 
 ---
 
-Completado como parte de la Certificación de Python de freeCodeCamp / Completed as part of the freeCodeCamp Python Certification
+Completed as part of the freeCodeCamp Python Certification
